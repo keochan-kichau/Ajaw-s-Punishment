@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Alice
+  - TeleportWaypoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG lower
+    uniqueID: 1476530691
+    locked: 0
+  - name: BG Details
+    uniqueID: 2820225509
+    locked: 0
+  - name: Background Behind
+    uniqueID: 4236197303
+    locked: 0
+  - name: Background
+    uniqueID: 3023890637
+    locked: 0
+  - name: Ground
+    uniqueID: 3531224433
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1713047459
+    locked: 0
+  - name: Upper of Ground
+    uniqueID: 3760389579
+    locked: 0
+  - name: Foreground
+    uniqueID: 43528913
+    locked: 0
+  - name: Canvas
+    uniqueID: 249078303
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []

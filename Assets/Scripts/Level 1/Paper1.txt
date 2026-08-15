@@ -1,0 +1,4 @@
+Tờ giấy|None|Khu vực đầu tiên này sẽ xuất hiện các Rương thường
+Tờ giấy|None|Hãy chạm vào chúng để thu thập
+Tờ giấy|None|Thu thập đủ số rương sẽ có thể qua màn.
+Tờ giấy|None|Ngoài ra, sẽ có một vật phẩm nho nhỏ, thu thập có thể mở khóa giới hạn?

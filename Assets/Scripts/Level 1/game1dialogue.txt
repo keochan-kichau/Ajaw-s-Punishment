@@ -1,0 +1,4 @@
+Ajaw|Ajaw_Angry|Hừ, dám thả ta vào trong đây, thật bất kính.
+Ajaw|Ajaw_Smile|Quả bóng nhỏ kia, ngươi có biết cách đưa ta ra không?
+Dodoco|Dodoco|Dodo...Dodoco?
+Ajaw|Ajaw_Angry|... Thôi đành tìm lối thoát vậy.

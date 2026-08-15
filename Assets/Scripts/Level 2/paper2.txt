@@ -1,0 +1,6 @@
+Tờ giấy|None|Hướng dẫn cách chơi:
+Tờ giấy|None|Dùng AD để di chuyển trái phải, Space để nhảy đối với Dodoco.
+Tờ giấy|None|Dùng WASD để bay đối với Ajaw.
+Tờ giấy|None|Dùng Tab để chuyển đổi giữa Dodoco và Ajaw.
+Tờ giấy|None|Một số vật phẩm có thể chạm hoặc bấm phím F để tương tác.
+Tờ giấy|None|Ngoài ra còn một tờ giấy hướng dẫn nữa, hãy tìm đọc!

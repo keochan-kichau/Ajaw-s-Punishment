@@ -1,0 +1,17 @@
+﻿Ajaw|Ajaw_Talking|Đây là đâu vậy? Kẻ nào đã ném Ajaw ta đây vào chỗ quái quỷ, kì dị thế này?
+Alice|Alice|Là người chủ của ngươi, Kinich đấy.
+Ajaw|Ajaw_Angry|Gì chứ? Tên hầu hạ Kinich kia... Hừ, ngươi là ai?
+Alice|Alice|Tôi là Ma nữ Alice, tôi quản lí toàn bộ khu vực ở đây.
+Alice|Alice|Có vẻ như ngươi đắc tội gì với cậu bạn kia, nên mới bị lưu đày tới đây nhỉ? Haha
+Ajaw|Ajaw_Shock|Cái gì? Bây giờ ta nên thoát thế nào đây? Thánh Long Toàn năng ta không thể bị nhốt ở nơi chật hẹp, khó chịu thế này được!
+Ajaw|Ajaw_Smirk|Mau thả ta ra đi, ta có thể thương lượng với ngươi.
+Alice|Alice|Thương lượng gì cơ?
+Ajaw|Ajaw_Smirk|Ta sẽ cho phép tên hầu của ta làm việc cho người trong vòng 3 ngà... À không, 1 tuần nhé!
+Alice|Alice|Đáng tiếc là không rồi! Anh bạn Kinich kia đã ủy thác tôi trước, bây giờ thì cố gắng thoát khỏi bí cảnh vô hạn của tôi nhé!
+Ajaw|Ajaw_Angry|Cái gì...? WAH!
+Alice|Alice|Ngươi có vẻ đã phá hoại bữa tiệc của Natlan, nên tạm thời cần phải học một bài học.
+Alice|Alice|Đừng lo, đã có bạn nhỏ Dodoco đi theo ngươi vào bí cảnh để hỗ trợ.
+Dodoco|Dodoco|Dodo... dodoco!
+Ajaw|Ajaw_Angry|Này! Ta không đồng ý, thả ra!
+Alice|Alice|Chúc may mắn.
+Ajaw|Ajaw_Cry|Đồ đáng ghétt...

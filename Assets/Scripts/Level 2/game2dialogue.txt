@@ -1,0 +1,3 @@
+Ajaw|Ajaw_Shock|Cái gì đây? Sao ta lại bị nhốt trong ngôi nhà thế này?
+Ajaw|Ajaw_Angry|Quả bóng nhỏ kia! Cứu ta!
+Note|None|Thử lại gần và bấm F tại tờ giấy kia xem...

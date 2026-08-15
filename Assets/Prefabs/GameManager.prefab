@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3364144391617052467
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 520916122905352626}
+  - component: {fileID: 9209817346962505145}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &520916122905352626
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3364144391617052467}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -4.53974, y: -1.82895, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9209817346962505145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3364144391617052467}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 104da6e5a7360594c8d10d74e0f69537, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  isEndingLevel: 0
+  sceneToLoad: 
+  nameText: {fileID: 0}
+  dialogueText: {fileID: 0}
+  avatarImage: {fileID: 0}
+  FirstDialogueFile: {fileID: 4900000, guid: ab33db3910040e24789fc2a7234545c9, type: 3}
+  emotionDatabase:
+  - emotionID: Ajaw_Normal
+    emotionSprite: {fileID: -859689558080797426, guid: 1c53c3536f20cc74c9e158377705e072, type: 3}
+  - emotionID: Ajaw_Talking
+    emotionSprite: {fileID: 1692226890601543842, guid: 1c53c3536f20cc74c9e158377705e072, type: 3}
+  - emotionID: Ajaw_Happy
+    emotionSprite: {fileID: -6055167197144543032, guid: 1c53c3536f20cc74c9e158377705e072, type: 3}
+  - emotionID: Ajaw_Angry
+    emotionSprite: {fileID: 830619967541268346, guid: 1c53c3536f20cc74c9e158377705e072, type: 3}
+  - emotionID: Ajaw_Smirk
+    emotionSprite: {fileID: 75230927217333744, guid: 1c53c3536f20cc74c9e158377705e072, type: 3}
+  - emotionID: Ajaw_Shock
+    emotionSprite: {fileID: -846922751634384371, guid: 1c53c3536f20cc74c9e158377705e072, type: 3}
+  - emotionID: Ajaw_Cry
+    emotionSprite: {fileID: -4200547815238607216, guid: 1c53c3536f20cc74c9e158377705e072, type: 3}
+  - emotionID: Ajaw_Smile
+    emotionSprite: {fileID: -8616755142178689618, guid: 1c53c3536f20cc74c9e158377705e072, type: 3}
+  - emotionID: Dodoco
+    emotionSprite: {fileID: -4845884718933533326, guid: fca17ed358a247840b3eb2f24af74f0a, type: 3}
+  - emotionID: Alice
+    emotionSprite: {fileID: 5510741715754306470, guid: 97662cda35c8ca94882a8f8d5014daff, type: 3}
+  typingSpeed: 0.03
+  dialogueLines: []
+  isOpeningDialogue: 1
+  loadSceneAfterDialogue: 1
+  nextSceneName: Level3

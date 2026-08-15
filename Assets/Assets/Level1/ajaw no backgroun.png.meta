@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 1c53c3536f20cc74c9e158377705e072
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6055167197144543032
+    second: ajaw no backgroun_0
+  - first:
+      213: -357288303021524929
+    second: ajaw no backgroun_1
+  - first:
+      213: -9217769872736803113
+    second: ajaw no backgroun_2
+  - first:
+      213: 2290450427590575851
+    second: ajaw no backgroun_3
+  - first:
+      213: 1060947437206076093
+    second: ajaw no backgroun_4
+  - first:
+      213: -6192838729675320403
+    second: ajaw no backgroun_5
+  - first:
+      213: -8273499952367768121
+    second: ajaw no backgroun_6
+  - first:
+      213: 8583423616929783166
+    second: ajaw no backgroun_7
+  - first:
+      213: 830619967541268346
+    second: ajaw no backgroun_8
+  - first:
+      213: -3061638982647545471
+    second: ajaw no backgroun_9
+  - first:
+      213: 7510530546009429573
+    second: ajaw no backgroun_10
+  - first:
+      213: 1504943825091536779
+    second: ajaw no backgroun_11
+  - first:
+      213: 3353888448971089850
+    second: ajaw no backgroun_12
+  - first:
+      213: 75230927217333744
+    second: ajaw no backgroun_13
+  - first:
+      213: -1920108852375642108
+    second: ajaw no backgroun_14
+  - first:
+      213: 305045001219652192
+    second: ajaw no backgroun_15
+  - first:
+      213: 236843404761799339
+    second: ajaw no backgroun_16
+  - first:
+      213: -5248138646393415818
+    second: ajaw no backgroun_17
+  - first:
+      213: -3945186608253767317
+    second: ajaw no backgroun_18
+  - first:
+      213: -1982730059967800998
+    second: ajaw no backgroun_19
+  - first:
+      213: -1966759335010127450
+    second: ajaw no backgroun_20
+  - first:
+      213: -7205620759056686118
+    second: ajaw no backgroun_21
+  - first:
+      213: 1692226890601543842
+    second: ajaw no backgroun_22
+  - first:
+      213: -4200547815238607216
+    second: ajaw no backgroun_23
+  - first:
+      213: -7751886851484606437
+    second: ajaw no backgroun_24
+  - first:
+      213: 4387827871610597204
+    second: ajaw no backgroun_25
+  - first:
+      213: -846922751634384371
+    second: ajaw no backgroun_26
+  - first:
+      213: 456664012191698660
+    second: ajaw no backgroun_27
+  - first:
+      213: -1888127663386225736
+    second: ajaw no backgroun_28
+  - first:
+      213: -3564397755329213161
+    second: ajaw no backgroun_29
+  - first:
+      213: 6334647574865415569
+    second: ajaw no backgroun_30
+  - first:
+      213: 5048893248331307814
+    second: ajaw no backgroun_31
+  - first:
+      213: -859689558080797426
+    second: ajaw no backgroun_32
+  - first:
+      213: 5191078466035588325
+    second: ajaw no backgroun_33
+  - first:
+      213: -3848806080585794013
+    second: ajaw no backgroun_34
+  - first:
+      213: -8616755142178689618
+    second: ajaw no backgroun_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ajaw no backgroun_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 167
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c01a9e0489b7fba0800000000000000
+      internalID: -6055167197144543032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 168
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38ffff6e28aa0bf0800000000000000
+      internalID: -357288303021524929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 168
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6a93a7327e31080800000000000000
+      internalID: -9217769872736803113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 166
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be68d20578059cf10800000000000000
+      internalID: 2290450427590575851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 179
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba7700b21e39be00800000000000000
+      internalID: 1060947437206076093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3db668cfd9e0aa0800000000000000
+      internalID: -6192838729675320403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 128
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd68e1d0af9e2d80800000000000000
+      internalID: -8273499952367768121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d5ccb7d427e1770800000000000000
+      internalID: 8583423616929783166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 127
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fc4aca574f68b00800000000000000
+      internalID: 830619967541268346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 160
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1810ec8019fd285d0800000000000000
+      internalID: -3061638982647545471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546dc953db3ca3860800000000000000
+      internalID: 7510530546009429573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87af757f62a2e410800000000000000
+      internalID: 1504943825091536779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7253156c76b8e20800000000000000
+      internalID: 3353888448971089850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 94
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f599e431264b0100800000000000000
+      internalID: 75230927217333744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 93
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40021140c276a55e0800000000000000
+      internalID: -1920108852375642108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ab43affccbb3400800000000000000
+      internalID: 305045001219652192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 94
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa983062df694300800000000000000
+      internalID: 236843404761799339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_17
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67798b9f4bdda27b0800000000000000
+      internalID: -5248138646393415818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 85
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61f76aaea1ef39c0800000000000000
+      internalID: -3945186608253767317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a595122f38deb74e0800000000000000
+      internalID: -1982730059967800998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_20
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 85
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1b90e1ecaa4b4e0800000000000000
+      internalID: -1966759335010127450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_21
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3ee3eb81e700c90800000000000000
+      internalID: -7205620759056686118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 62
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a83ba5246ffb7710800000000000000
+      internalID: 1692226890601543842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 62
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ed8aa7408a4b5c0800000000000000
+      internalID: -4200547815238607216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 62
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b102d36daf3cb6490800000000000000
+      internalID: -7751886851484606437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 62
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f68e69332b4ec30800000000000000
+      internalID: 4387827871610597204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_26
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ad2ac9e302f34f0800000000000000
+      internalID: -846922751634384371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 32
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee0464ef75665600800000000000000
+      internalID: 456664012191698660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_28
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b39645d4e50cc5e0800000000000000
+      internalID: -1888127663386225736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 32
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d07636027b88ec0800000000000000
+      internalID: -3564397755329213161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 33
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d842d286039e750800000000000000
+      internalID: 6334647574865415569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bd7afb8a5411640800000000000000
+      internalID: 5048893248331307814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e054b79d6e4c114f0800000000000000
+      internalID: -859689558080797426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec1b318c5a6a0840800000000000000
+      internalID: 5191078466035588325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ef155f24b469ac0800000000000000
+      internalID: -3848806080585794013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ajaw no backgroun_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead2be90ad22b6880800000000000000
+      internalID: -8616755142178689618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e16ea17df4872f4391b648584c4d756
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ajaw no backgroun_0: -6055167197144543032
+      ajaw no backgroun_1: -357288303021524929
+      ajaw no backgroun_10: 7510530546009429573
+      ajaw no backgroun_11: 1504943825091536779
+      ajaw no backgroun_12: 3353888448971089850
+      ajaw no backgroun_13: 75230927217333744
+      ajaw no backgroun_14: -1920108852375642108
+      ajaw no backgroun_15: 305045001219652192
+      ajaw no backgroun_16: 236843404761799339
+      ajaw no backgroun_17: -5248138646393415818
+      ajaw no backgroun_18: -3945186608253767317
+      ajaw no backgroun_19: -1982730059967800998
+      ajaw no backgroun_2: -9217769872736803113
+      ajaw no backgroun_20: -1966759335010127450
+      ajaw no backgroun_21: -7205620759056686118
+      ajaw no backgroun_22: 1692226890601543842
+      ajaw no backgroun_23: -4200547815238607216
+      ajaw no backgroun_24: -7751886851484606437
+      ajaw no backgroun_25: 4387827871610597204
+      ajaw no backgroun_26: -846922751634384371
+      ajaw no backgroun_27: 456664012191698660
+      ajaw no backgroun_28: -1888127663386225736
+      ajaw no backgroun_29: -3564397755329213161
+      ajaw no backgroun_3: 2290450427590575851
+      ajaw no backgroun_30: 6334647574865415569
+      ajaw no backgroun_31: 5048893248331307814
+      ajaw no backgroun_32: -859689558080797426
+      ajaw no backgroun_33: 5191078466035588325
+      ajaw no backgroun_34: -3848806080585794013
+      ajaw no backgroun_35: -8616755142178689618
+      ajaw no backgroun_4: 1060947437206076093
+      ajaw no backgroun_5: -6192838729675320403
+      ajaw no backgroun_6: -8273499952367768121
+      ajaw no backgroun_7: 8583423616929783166
+      ajaw no backgroun_8: 830619967541268346
+      ajaw no backgroun_9: -3061638982647545471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

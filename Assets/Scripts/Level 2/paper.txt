@@ -1,0 +1,6 @@
+Tờ giấy|None|Hãy nhìn vào chữ số 0 ở ngôi nhà đầu tiên, đó là số Level bạn đã vượt qua.
+Tờ giấy|None|Hãy thám hiểm xung quanh map ở Level 0 để kiểm tra bản đồ, rồi ghi nhớ các chi tiết.
+Tờ giấy|None|Và sau đó đến ngôi nhà nhỏ ở nghĩa trang và bấm F để bắt đầu sang Level 1.
+Tờ giấy|None|Từ Level 1, nếu bạn nhìn thấy bất cứ điều gì kì lạ, hãy đến ngôi nhà nhỏ và bấm J, nếu không có gì kì lạ, bấm F.
+Tờ giấy|None|Nếu bạn chọn sai, bạn sẽ quay về Level 1 ngay lập tức, bất kể Level trước đó là bao nhiêu. Hãy cẩn thận!
+Tờ giấy|None|Ajaw sẽ thoát khỏi bí cảnh này nếu bạn đã hoàn thành Level 8.
